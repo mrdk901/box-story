@@ -442,7 +442,7 @@ footer .blog {
 footer .footer-columns {
     width: 50%;
     border: none;
-    background: #585858;
+    background: #F7D708;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -464,12 +464,12 @@ footer .footer-columns {
     padding-right: 0;
     padding-top: 5pt;
     padding-bottom: 5pt;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #49AD2F;
 }
 
 .level1 a {
     font-size: 9pt;
-    color: #ffffff;
+    color: #EC1465;
         text-decoration: none;
     text-transform: none;
 }
@@ -479,20 +479,20 @@ h3 {
 }
 
 .footer-column1 h3 {
-    color: white;
+     color: #EC1465;
     font-size: 9pt;
     line-height: 10pt;
     font-weight: bold;
     padding-bottom: 5pt;
-    border-bottom: 1px solid white; }
+    border-bottom: 1px solid #49AD2F; }
 
 .footer-column2 h3 {
-    color: white;
+    color: #EC1465;
     font-size: 9pt;
     line-height: 10pt;
     font-weight: bold;
     padding-bottom: 5pt;
-    border-bottom: 1px solid white; }
+    border-bottom: 1px solid #49AD2F; }
 
 .partners-footer {
     max-width: 853px;
