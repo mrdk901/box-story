@@ -1,2 +1,2 @@
-# box-story
+# box-store
 code optimization
